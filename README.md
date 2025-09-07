@@ -17,4 +17,4 @@ Versiune refactorizată OOP: animalele sunt obiecte (`Dog`, `Cat`, `Cow`, `Duck`
 ## Ce face
 1. Listează animalele cunoscute: `Dog, Cat, Cow, Duck`.
 2. Cere utilizatorului un nume de animal.
-3. Caută animalul în listă (caz-insensitiv) și afișează:
+3. Caută animalul în listă și afișează mesajul.
